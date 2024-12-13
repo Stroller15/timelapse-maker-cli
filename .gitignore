@@ -1,0 +1,6 @@
+timelapse_images/*
+.DS_Store
+.env/
+command.txt
+timelapsed_imgs.mp4
+.venv
